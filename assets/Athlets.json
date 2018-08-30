@@ -1,0 +1,44 @@
+[{
+    "id": 1,
+    "name": "James Rodriguez",
+    "category":"Futbol"
+      }, {
+    "id": 2,
+    "name": "Leonel Messi",
+    "category":"Futbol"
+  }, 
+  {
+    "id": 3,
+    "name": "George Mikan",
+    "category":"Basketball"
+  }, {
+    "id": 4,
+    "name": "Michael Phelps",
+    "category":"Natación"
+  }, 
+  {
+    "id": 5,
+    "name": "Sasha Cohen",
+    "category":"Patinaje"
+  }, {
+    "id": 6,
+    "name": "Derek Jeter",
+    "category":"Beisbol"
+  }, {
+    "id": 7,
+    "name": "Nadia Comaneci",
+    "category":"Gimnasia"
+  }, {
+    "id": 8,
+    "name": "Atletismo",
+    "image":"http://conocelahistoria.com/wp-content/uploads/2018/08/Historia-del-Atletismo-01.jpg"
+  }, {
+    "id": 9,
+    "name": "Gimnasia",
+    "image": "https://cdn-pro.elsalvador.com/wp-content/uploads/2017/07/23181726/beatriz-acosta-gimnasia.jpg"
+  }, {
+    "id": 10,
+    "name": "Ciclismo",
+    "image":"http://i.triatlonline.com.mx/media/k2/items/cache/7a5796939c6ac0dde162bfc405fdcfa3_XL.jpg"
+  }]
+  
